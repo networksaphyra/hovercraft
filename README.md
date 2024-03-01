@@ -1,1 +1,1 @@
-# hovercraft
+School hovercraft project
